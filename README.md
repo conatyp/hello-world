@@ -2,4 +2,4 @@
 first repository!
 
 Hellooooooo!
-Counting down the gours until Snowpocalypse 2015
+Counting down the hours until Snowpocalypse 2015
